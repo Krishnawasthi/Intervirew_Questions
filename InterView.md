@@ -10,3 +10,6 @@ String is immutable because once a String object is created, its value cannot be
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Question3: Purpose of static block(SIT)?
+## A static initialization block is used to initialize static variables or perform some setup work when the class is loaded into memory. It executes only once, before the main() method or before the class is used to create objects. It is mainly useful when the initialization requires some logic that cannot be done with a simple assignment.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
