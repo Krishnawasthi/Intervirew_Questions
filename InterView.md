@@ -9,3 +9,4 @@ String is immutable because once a String object is created, its value cannot be
 ### When we write P p = new P();, Java creates a new object of class P in the heap memory using the new keyword, and the constructor of class P is called during object creation. P p declares a reference variable p of type P, and this reference variable stores the reference to the newly created object. In simple words, new P() creates the object, and p refers to that object.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Question3: Purpose of static block(SIT)?
